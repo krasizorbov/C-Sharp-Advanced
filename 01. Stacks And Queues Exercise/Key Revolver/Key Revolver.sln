@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Key Revolver", "Key Revolver\Key Revolver.csproj", "{7BA5AFD4-D48C-41FB-AD1B-444DF5B8650B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BA5AFD4-D48C-41FB-AD1B-444DF5B8650B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA5AFD4-D48C-41FB-AD1B-444DF5B8650B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA5AFD4-D48C-41FB-AD1B-444DF5B8650B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA5AFD4-D48C-41FB-AD1B-444DF5B8650B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71127E91-6487-4E10-B5E4-1803FB5C1242}
+	EndGlobalSection
+EndGlobal
