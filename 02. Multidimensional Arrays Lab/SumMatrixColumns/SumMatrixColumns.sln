@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMatrixColumns", "SumMatrixColumns\SumMatrixColumns.csproj", "{1A9937D8-A5DC-4971-9429-BA4A331F17DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A9937D8-A5DC-4971-9429-BA4A331F17DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9937D8-A5DC-4971-9429-BA4A331F17DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9937D8-A5DC-4971-9429-BA4A331F17DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9937D8-A5DC-4971-9429-BA4A331F17DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8CA4329-C82C-47E6-B8C2-DBE37F25A1E2}
+	EndGlobalSection
+EndGlobal
