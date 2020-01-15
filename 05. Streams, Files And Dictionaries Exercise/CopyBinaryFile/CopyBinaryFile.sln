@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyBinaryFile", "CopyBinaryFile\CopyBinaryFile.csproj", "{F844F22F-490F-4FE4-8F6C-96954064CF68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F844F22F-490F-4FE4-8F6C-96954064CF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F844F22F-490F-4FE4-8F6C-96954064CF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F844F22F-490F-4FE4-8F6C-96954064CF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F844F22F-490F-4FE4-8F6C-96954064CF68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60A5ACB0-1BF1-4C5E-8F15-75B41AF357EF}
+	EndGlobalSection
+EndGlobal
