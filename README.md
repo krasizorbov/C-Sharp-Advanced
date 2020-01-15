@@ -7,3 +7,4 @@
 # 12 December 2019: Added SoftUni Lab: Sets And Dictionaries Advanced
 # 14 December 2019: Added SoftUni Exercise: Functional Programming
 # 19 December 2019: Added SoftUni Lab: Functional Programming
+# 15 January 2020: Added SoftUni Exercise: Streams, Files And Dictionaries
