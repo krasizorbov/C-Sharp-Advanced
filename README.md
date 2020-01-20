@@ -9,3 +9,4 @@
 # 19 December 2019: Added SoftUni Lab: Functional Programming
 # 15 January 2020: Added SoftUni Exercise: Streams, Files And Dictionaries
 # 16 January 2020: Added SoftUni Lab: Streams, Files And Dictionaries
+# 20 January 2020: Added SoftUni Exercise: Defining Classes
