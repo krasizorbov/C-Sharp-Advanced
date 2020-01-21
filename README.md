@@ -10,3 +10,4 @@
 # 15 January 2020: Added SoftUni Exercise: Streams, Files And Dictionaries
 # 16 January 2020: Added SoftUni Lab: Streams, Files And Dictionaries
 # 20 January 2020: Added SoftUni Exercise: Defining Classes
+# 22 January 2020: Added SoftUni Lab: Defining Classes
