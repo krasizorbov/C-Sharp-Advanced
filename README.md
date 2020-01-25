@@ -12,3 +12,4 @@
 # 20 January 2020: Added SoftUni Exercise: Defining Classes
 # 22 January 2020: Added SoftUni Lab: Defining Classes
 # 23 January 2020: Added SoftUni Exercise: Workshop
+# 25 January 2020: Added SoftUni Lab: Workshop
