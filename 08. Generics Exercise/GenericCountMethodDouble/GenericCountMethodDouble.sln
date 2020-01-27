@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCountMethodDouble", "GenericCountMethodDouble\GenericCountMethodDouble.csproj", "{3E6C036C-6DCB-425C-B99A-7A80126249B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E6C036C-6DCB-425C-B99A-7A80126249B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6C036C-6DCB-425C-B99A-7A80126249B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6C036C-6DCB-425C-B99A-7A80126249B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6C036C-6DCB-425C-B99A-7A80126249B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A24DF952-760F-455F-BEAE-14E019CD4BE5}
+	EndGlobalSection
+EndGlobal
