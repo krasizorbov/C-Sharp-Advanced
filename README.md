@@ -14,3 +14,4 @@
 # 23 January 2020: Added SoftUni Exercise: Workshop
 # 25 January 2020: Added SoftUni Lab: Workshop
 # 27 January 2020: Added SoftUni Exercise: Generics
+# 05 January 2020: Added SoftUni Lab: Generics
