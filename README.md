@@ -17,3 +17,4 @@
 # 05 January 2020: Added SoftUni Lab: Generics
 # 11 January 2020: Added SoftUni Exercise: Iterators And Comparators
 # 18 January 2020: Added SoftUni Lab: Iterators And Comparators
+# 24 January 2020: Added SoftUni Workshop: Basic Algorithms
